@@ -1,0 +1,7 @@
+Flask>=3.0,<4
+python-dotenv>=1.0
+requests>=2.31
+reportlab>=4.0
+matplotlib>=3.8
+pytest>=8.0
+pypdf>=4.0
